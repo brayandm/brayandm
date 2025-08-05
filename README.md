@@ -2,7 +2,7 @@
 𝗦𝗲𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗮𝗻𝗱 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁 with 9+ years of programming experience and a strong computer science background, including deep knowledge of advanced algorithms and data structures. Expertise in Full-Stack Development and proficient in Agile methodologies.
 
 💡 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲: Specialization in developing robust applications across the entire stack.  
-⠀⠀⠀• Backend: 𝗣𝗛𝗣 (Laravel), 𝗣𝘆𝘁𝗵𝗼𝗻 (Django, Flask, FastAPI) and 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 (Node.js)  
+⠀⠀⠀• Backend: 𝗣𝗛𝗣 (Laravel), 𝗣𝘆𝘁𝗵𝗼𝗻 (Django, Flask, FastAPI) and 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 (Nest.js, Node.js)
 ⠀⠀⠀• Frontend: 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀 & 𝗡𝗲𝘅𝘁.𝗷𝘀 for dynamic, modern web applications
 
 🛠️ 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗖𝗹𝗼𝘂𝗱: Proficiency in optimizing development workflows using Docker, CI/CD pipelines, Unix environments, and managing SQL & NoSQL databases across multiple cloud providers.
