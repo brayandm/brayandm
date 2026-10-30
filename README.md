@@ -1,5 +1,5 @@
 # 💫 About Me:
-𝗦𝗲𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗮𝗻𝗱 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁 with 10+ years of programming experience and a strong computer science background, including deep knowledge of advanced algorithms and data structures. Expertise in Full-Stack Development and proficient in Agile methodologies.
+𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 with a strong programming foundation and a solid computer science background, including deep knowledge of advanced algorithms and data structures. Expertise in Full-Stack Development and proficient in Agile methodologies.
 
 💡 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲: Specialization in developing robust applications across the entire stack.  
 ⠀⠀⠀• Backend: 𝗝𝗮𝘃𝗮 (Spring Boot), 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 (Nest.js, Node.js), 𝗣𝘆𝘁𝗵𝗼𝗻 (Django, Flask, FastAPI), and 𝗣𝗛𝗣 (Laravel)  
