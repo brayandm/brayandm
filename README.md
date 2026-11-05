@@ -1,3 +1,5 @@
+# 💫 About Me:
+
 Software Engineer with a strong computer science foundation and hands-on experience in AI engineering. ICPC World Finals Finalist with solid expertise in algorithms, data structures, and performance optimization. I approach engineering challenges with a systems mindset, focusing on simplicity, clear abstractions, and long-term architectural quality.
  
 I design and build backend systems with scalability and reliability in mind, and I have also worked on AI-driven products, workflows, and integrations. My experience includes defining service boundaries, structuring systems to support growth, and making pragmatic architectural decisions that balance complexity, maintainability, and product needs.
